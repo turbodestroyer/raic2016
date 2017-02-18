@@ -154,20 +154,6 @@ namespace Com.CodeGame.CodeWizards2016.DevKit.CSharpCgdk
         private bool IsLowHp()
         {
             int dangerousHpLevel = 50 + deathNumber * 4;
-			  
-																							  
-																   
-															  
-																						   
-			  
-							   
-																										
-																			   
-												  
-			  
-																				
-						   
-
 									  
             if (game.IsSkillsEnabled) dangerousHpLevel += 10;
 
